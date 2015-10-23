@@ -8,6 +8,6 @@ Languages: Java, JavaScript
 
 Database: MySQL 
 
-APIs: Twitter Streaming API, Google Map API, Elastic Beanstalk API, Elastic LoadBalancing API
+APIs: Twitter Streaming API, Google Map API, Google Chart API, Elastic Beanstalk API, Elastic LoadBalancing API
 
 
